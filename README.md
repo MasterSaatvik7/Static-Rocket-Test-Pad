@@ -4,3 +4,5 @@ Team mates: Vikrant ->              Dattasai ->
 Arduino Connections:
 
 Test Pad designed in Fusion360 and Ansys by Vikrant, Avionics Box designed by Dattasai
+
+References:
